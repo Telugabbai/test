@@ -156,7 +156,6 @@ object WorldDevIndicatorsAnalysis {
 //    World per capita income in 2013 (constant 2005 US$)
      val pb19=spark.sql("select Year,CountryName,int(Value) from Indicators where IndicatorCode ='NY.ADJ.NNTY.PC.KD' and Year=2013 order by Value desc limit 200")
     pb19.show()
-
     spark.stop()
   }
 }
