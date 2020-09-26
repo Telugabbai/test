@@ -40,12 +40,12 @@ Problem Statements
 Note : 
 Their are 6 types Exports Indicators
 
-1.|Exports of goods and services (current US$)|   NE.EXP.GNFS.CD|
-2.|Exports of goods and services (% of GDP)|      NE.EXP.GNFS.ZS|
-3.|Exports of goods and services (current LCU)|   NE.EXP.GNFS.CN|
-4.|Exports of goods and services (annual % growth)|NE.EXP.GNFS.KD.ZG|
-5.|Exports of goods and services (constant LCU)|   NE.EXP.GNFS.KN|
-6.|Exports of goods and services (annual % growth)|   NE.EXP.GNFS.KD|
+1. Exports of goods and services (current US$)    - NE.EXP.GNFS.CD
+2. Exports of goods and services (% of GDP)         NE.EXP.GNFS.ZS
+3. Exports of goods and services (current LCU)      NE.EXP.GNFS.CN
+4. Exports of goods and services (annual % growth)  NE.EXP.GNFS.KD.ZG
+5. Exports of goods and services (constant LCU)     NE.EXP.GNFS.KN
+6. Exports of goods and services (annual % growth)  NE.EXP.GNFS.KD 
 
 
 Thanks and Regards
