@@ -14,6 +14,7 @@ object WorldDevIndicatorsAnalysis {
 
     // Data Source . Datasets link given in README.md
     val country_data="C:\\Users\\Sreenivas\\Documents\\Project\\World development\\data\\Country.csv"
+    // you can download dataset using the link provided in README.md
     val Indicator_data="C:\\Users\\Sreenivas\\Documents\\Project\\World development\\data\\Indicators.csv"
 
     // Dataframes creation
